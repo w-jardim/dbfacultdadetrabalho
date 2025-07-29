@@ -208,7 +208,7 @@ O modelo foi projetado com base em boas práticas de modelagem relacional, prior
 
 ## Autores
 
-- [Seu Nome Aqui]
+- Wallace jardim
 - Projeto acadêmico — Faculdade Nova Geração
 
 ---
